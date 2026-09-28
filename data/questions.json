@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "function",
+            "def",
+            "fun",
+            "define"
+        ],
+        "answer": "def",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 2,
+        "question": "Which data type is used to store True or False?",
+        "options": [
+            "int",
+            "string",
+            "boolean",
+            "float"
+        ],
+        "answer": "boolean",
+        "category": "Python",
+        "difficulty": "Easy"
+    }
+]
